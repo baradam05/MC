@@ -1,0 +1,120 @@
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\bin\Debug\net6.0\project1_ref2.exe
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\bin\Debug\net6.0\project1_ref2.deps.json
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\bin\Debug\net6.0\project1_ref2.runtimeconfig.json
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\bin\Debug\net6.0\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\bin\Debug\net6.0\project1_ref2.pdb
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.AssemblyReference.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\obj\Debug\net6.0\project1_ref2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfoInputs.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfo.cs
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.CoreCompileInputs.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\obj\Debug\net6.0\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\obj\Debug\net6.0\refint\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\obj\Debug\net6.0\project1_ref2.pdb
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\obj\Debug\net6.0\project1_ref2.genruntimeconfig.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1_ref2\project1_ref2\obj\Debug\net6.0\ref\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.exe
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.deps.json
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.runtimeconfig.json
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.pdb
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.AssemblyReference.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfoInputs.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfo.cs
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.CoreCompileInputs.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\obj\Debug\net6.0\refint\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.pdb
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.genruntimeconfig.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1\project1_ref2\obj\Debug\net6.0\ref\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\bin\Debug\net6.0\project1_ref2.exe
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\bin\Debug\net6.0\project1_ref2.deps.json
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\bin\Debug\net6.0\project1_ref2.runtimeconfig.json
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\bin\Debug\net6.0\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\bin\Debug\net6.0\project1_ref2.pdb
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.AssemblyReference.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\obj\Debug\net6.0\project1_ref2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfoInputs.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfo.cs
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.CoreCompileInputs.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\obj\Debug\net6.0\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\obj\Debug\net6.0\refint\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\obj\Debug\net6.0\project1_ref2.pdb
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\obj\Debug\net6.0\project1_ref2.genruntimeconfig.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2\project1_ref2\obj\Debug\net6.0\ref\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\bin\Debug\net6.0\project1_ref2.exe
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\bin\Debug\net6.0\project1_ref2.deps.json
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\bin\Debug\net6.0\project1_ref2.runtimeconfig.json
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\bin\Debug\net6.0\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\bin\Debug\net6.0\project1_ref2.pdb
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.AssemblyReference.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\obj\Debug\net6.0\project1_ref2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfoInputs.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfo.cs
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.CoreCompileInputs.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\obj\Debug\net6.0\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\obj\Debug\net6.0\refint\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\obj\Debug\net6.0\project1_ref2.pdb
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\obj\Debug\net6.0\project1_ref2.genruntimeconfig.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1 BACKUP2 - kopie\project1_ref2\obj\Debug\net6.0\ref\project1_ref2.dll
+C:\Users\baradam\Desktop\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.exe
+C:\Users\baradam\Desktop\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.deps.json
+C:\Users\baradam\Desktop\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.runtimeconfig.json
+C:\Users\baradam\Desktop\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.dll
+C:\Users\baradam\Desktop\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.pdb
+C:\Users\baradam\Desktop\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.AssemblyReference.cache
+C:\Users\baradam\Desktop\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baradam\Desktop\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfoInputs.cache
+C:\Users\baradam\Desktop\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfo.cs
+C:\Users\baradam\Desktop\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.CoreCompileInputs.cache
+C:\Users\baradam\Desktop\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.dll
+C:\Users\baradam\Desktop\project1\project1_ref2\obj\Debug\net6.0\refint\project1_ref2.dll
+C:\Users\baradam\Desktop\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.pdb
+C:\Users\baradam\Desktop\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.genruntimeconfig.cache
+C:\Users\baradam\Desktop\project1\project1_ref2\obj\Debug\net6.0\ref\project1_ref2.dll
+X:\PRG\project\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.exe
+X:\PRG\project\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.deps.json
+X:\PRG\project\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.runtimeconfig.json
+X:\PRG\project\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.dll
+X:\PRG\project\project1\project1_ref2\bin\Debug\net6.0\project1_ref2.pdb
+X:\PRG\project\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.AssemblyReference.cache
+X:\PRG\project\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.GeneratedMSBuildEditorConfig.editorconfig
+X:\PRG\project\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfoInputs.cache
+X:\PRG\project\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfo.cs
+X:\PRG\project\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.CoreCompileInputs.cache
+X:\PRG\project\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.dll
+X:\PRG\project\project1\project1_ref2\obj\Debug\net6.0\refint\project1_ref2.dll
+X:\PRG\project\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.pdb
+X:\PRG\project\project1\project1_ref2\obj\Debug\net6.0\project1_ref2.genruntimeconfig.cache
+X:\PRG\project\project1\project1_ref2\obj\Debug\net6.0\ref\project1_ref2.dll
+X:\PRG\project\project1-checkpoint2\project1_ref2\bin\Debug\net6.0\project1_ref2.exe
+X:\PRG\project\project1-checkpoint2\project1_ref2\bin\Debug\net6.0\project1_ref2.deps.json
+X:\PRG\project\project1-checkpoint2\project1_ref2\bin\Debug\net6.0\project1_ref2.runtimeconfig.json
+X:\PRG\project\project1-checkpoint2\project1_ref2\bin\Debug\net6.0\project1_ref2.dll
+X:\PRG\project\project1-checkpoint2\project1_ref2\bin\Debug\net6.0\project1_ref2.pdb
+X:\PRG\project\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.AssemblyReference.cache
+X:\PRG\project\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.GeneratedMSBuildEditorConfig.editorconfig
+X:\PRG\project\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfoInputs.cache
+X:\PRG\project\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfo.cs
+X:\PRG\project\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.CoreCompileInputs.cache
+X:\PRG\project\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.dll
+X:\PRG\project\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\refint\project1_ref2.dll
+X:\PRG\project\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.pdb
+X:\PRG\project\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.genruntimeconfig.cache
+X:\PRG\project\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\ref\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.AssemblyReference.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfoInputs.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.AssemblyInfo.cs
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.csproj.CoreCompileInputs.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\refint\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.pdb
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\bin\Debug\net6.0\project1_ref2.exe
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\bin\Debug\net6.0\project1_ref2.deps.json
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\bin\Debug\net6.0\project1_ref2.runtimeconfig.json
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\bin\Debug\net6.0\project1_ref2.dll
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\bin\Debug\net6.0\project1_ref2.pdb
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\project1_ref2.genruntimeconfig.cache
+C:\Users\Uzivatel\OneDrive\Plocha\project1-checkpoint2\project1_ref2\obj\Debug\net6.0\ref\project1_ref2.dll
